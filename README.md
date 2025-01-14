@@ -5,19 +5,6 @@ Welcome to my creative journey! 🌟 This is the official repository of Miloš U
 
 ![Portfolio Screenshot](./assets/Hero.png)
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Responsive Design](#responsive-design)
-- [Performance](#performance)
-- [Accessibility](#accessibility)
-- [Best Practices](#best-practices)
-- [SEO](#seo)
-- [Website Score](#website-score)
-- [Other Pages](#other-pages)
-- [Contact](#contact)
-
 # Project Overview
 This portfolio was created to showcase Miloš's design projects, his UI/UX skills, and thought processes. It's built with modern web technologies, providing an intuitive user experience and aesthetic appeal.
 
