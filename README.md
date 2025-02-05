@@ -12,7 +12,7 @@ It includes a range of UI/UX design projects, including case studies, wireframes
 
 Here's my portfolio! 😎
 
-👉[Explore Portfolio](https://milos-ui-ux-design-portfolio.webflow.io/)
+[![Explore Project](https://img.shields.io/badge/Explore%20Portfolio-black?style=for-the-badge)](https://milos-ui-ux-design-portfolio.webflow.io/)
 
 ## Features 🌟
 - Interactive and responsive design: Ensures an optimal experience across all devices, including desktop, tablet, and mobile.
